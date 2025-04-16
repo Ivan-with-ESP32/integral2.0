@@ -1,3 +1,6 @@
+// RAM:   [=         ]   6.7% (used 21996 bytes from 327680 bytes)
+// Flash: [==        ]  24.0% (used 314797 bytes from 1310720 bytes)
+
 #include <Keypad.h>
 #include <Adafruit_GFX.h>
 #include <Adafruit_ST7735.h>
